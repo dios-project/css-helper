@@ -4,3 +4,7 @@ Css helper Lisans hakları Zoda'ya aittir
 css helper bir site oluştururken sitenin tasarımını dert etmemeniz için
 hazırlanmıştır. Birçok site incelenmiş ve en iyi tasarım bulunarak css helper hazırlanmıştır
 */
+
+h1 {
+  font-family: Ariel;
+ }
